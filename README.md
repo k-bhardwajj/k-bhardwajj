@@ -49,12 +49,12 @@ UX research and prototype development for *Canopy*, a biophilic micro-recovery a
 
 ## 📚 Education
 
-| Degree | Institution | Status |
+| Degree | Institution |
 |--------|------------|--------|
-| Master of Bioinformatics | University of Queensland | Starting Semester 2 2026 |
-| Graduate Certificate in IT | University of Queensland | In progress |
-| BSc (Microbiology, Infection & Immunity) | University of Queensland | Graduated |
-| BBiomedSc (Biomedical Science) | University of Queensland | Graduated |
+| Master of Bioinformatics | University of Queensland (In Progress) | 
+| Graduate Certificate in IT | University of Queensland | 
+| BSc (Microbiology, Infection & Immunity) | University of Queensland | 
+| BBiomedSc (Biomedical Science) | University of Queensland | 
 
 ---
 
