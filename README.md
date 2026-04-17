@@ -1,6 +1,6 @@
 # Hi, I'm Khushi 👋
 
-I'm a **Bioinformatics & Biomedical Science researcher** based in Brisbane, Australia, working at the intersection of genomics, computational biology, and infectious disease. I hold a dual bachelor's degree in Biomedical Science and Science (majoring in Microbiology, Infection & Immunity) from the University of Queensland, and I'm currently completing a Graduate Certificate in IT before beginning a Master of Bioinformatics in Semester 2, 2026. Alongside my research, I'm committed to equity in STEMM — having served as Vice President of the Women in STEMM Association (WISA) at UQ in 2025 and continuing as Secretary in 2026.
+I'm a **Bioinformatics & Biomedical Science researcher** based in Brisbane, Australia, working at the intersection of genomics, computational biology, and infectious disease. I hold a dual bachelor's degree in Biomedical Science and Science (majoring in Microbiology, Infection & Immunity) from the University of Queensland, and I'm currently completing a Graduate Certificate in IT before beginning a Master of Bioinformatics in Semester 2, 2026. Alongside my research, I'm committed to equity in STEMM — having served as Vice President of the Women in Science Association (WISA) at UQ in 2025 and continuing as Secretary in 2026.
 
 ---
 
@@ -51,7 +51,7 @@ UX research and prototype development for *Canopy*, a biophilic micro-recovery a
 
 | Degree | Institution | Status |
 |--------|------------|--------|
-| Master of Bioinformatics | University of Queensland | Starting S2 2026 |
+| Master of Bioinformatics | University of Queensland | Starting Semester 2 2026 |
 | Graduate Certificate in IT | University of Queensland | In progress |
 | BSc (Microbiology, Infection & Immunity) | University of Queensland | Graduated |
 | BBiomedSc (Biomedical Science) | University of Queensland | Graduated |
