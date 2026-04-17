@@ -50,7 +50,7 @@ UX research and prototype development for *Canopy*, a biophilic micro-recovery a
 ## 📚 Education
 
 | Degree | Institution |
-|--------|------------|--------|
+|--------|------------|
 | Master of Bioinformatics | University of Queensland (In Progress) | 
 | Graduate Certificate in IT | University of Queensland | 
 | BSc (Microbiology, Infection & Immunity) | University of Queensland | 
