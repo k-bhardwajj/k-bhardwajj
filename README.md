@@ -75,9 +75,9 @@ UX research and prototype development for *Canopy*, a biophilic micro-recovery a
 - **Vice President** (2025) → **Secretary** (2026), Women in STEMM Association (WISA) — UQ
 - **Executive Member for Social Engagement**, UQLIT (2024–present) — designed and led a recurring programme of community events including networking nights, International Women's Day celebrations, and experiential social events; ongoing STEMM advocacy
 - **STEMM Sisterhood Mentoring** — co-created and facilitated a mentor-mentee programme for women in STEMM at UQ
-- Co-organiser, *Women in SMP Night* (UQ, 2024–2025) in partnership with PAIN Physics Club
-- Organiser, *Industry Networking Night* (2024–2025) and *Research Networking Pathways* (2024–2025)
-- **Senior Academic Tutor** — mathematics, science, biology and English (Year 2–12) across multiple tutoring platforms; consistent student grade improvement outcomes
+- **Co-organiser**, *Women in SMP Night* (UQ, 2024–2025) in partnership with PAIN Physics Club
+- **Organiser**, *Industry Networking Night* (2024–2025) and *Research Networking Pathways* (2024–2025)
+- **Senior Academic Tutor** — mathematics, science, biology and English (Year 2–12) across multiple tutoring platforms (Tutero, Kumon, Alchemy Education); consistent student grade improvement outcomes (90% success rate in pushing students to a 95+ ATAR)
 
 ---
 
